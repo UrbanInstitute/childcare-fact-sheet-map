@@ -13,7 +13,7 @@ http://bl.ocks.org/michellechandra/0b2ce4923dc9b5809922 */
 function drawMap(container_width) {
 
   function buildLink(abbr){
-    return "https://www.urban.org/sites/default/files/what-if-expanded-child-care-subsidies-in-" + abbr.toLowerCase().trim() + ".pdf"
+    return "https://www.urban.org/sites/default/files/what-if-we-expanded-child-care-subsidies-in-" + abbr.toLowerCase().trim() + ".pdf"
 
   }
 
